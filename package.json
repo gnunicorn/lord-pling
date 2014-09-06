@@ -1,0 +1,9 @@
+{
+  "name": "lord_pling",
+  "title": "Lord Plgin",
+  "id": "jid1-7JL5ZCwGR5piUw",
+  "description": "Makes 'pling' whenever a localhost URL successfully loaded",
+  "author": "Benjamin Kampmann",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
